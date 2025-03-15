@@ -80,6 +80,7 @@
 
 ## 🪴 Практика и стажировка
 [<img src="/intership.rus.jpg" width="280px" hspace="10px" alt="Сертификат об окончании стажировки на русском языке»">](https://raw.githubusercontent.com/Natalya-Frolova-qa/Natalya-Frolova-qa/refs/heads/main/internship.rus.jpg)
+[<img src="/intership.engl.jpg" width="280px" hspace="10px" alt="Сертификат об окончании стажировки на английском языке»">](https://raw.githubusercontent.com/Natalya-Frolova-qa/Natalya-Frolova-qa/refs/heads/main/internship.engl.jpg)
 
 <br>
 
