@@ -85,8 +85,8 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/diplom rus.jpg" width="280px" hspace="10px" alt="Диплом на русском языке»">](https://raw.githubusercontent.com/Natalya-Frolova-qa/Natalya-Frolova-qa/refs/heads/main/QA%20diplom%20rus.jpg)
+[<img src="/diplom engl.jpg" width="280px" hspace="10px" alt="Диплом на английском языке»">](https://raw.githubusercontent.com/Natalya-Frolova-qa/Natalya-Frolova-qa/refs/heads/main/QA%20diplom%20engl.jpg)
 
 <br>
 <br>
